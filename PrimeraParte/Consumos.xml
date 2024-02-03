@@ -1,0 +1,51 @@
+<consulta_consumos>
+  <num_linea>342-155-678-909</num_linea>
+  <plan>PLAN 3G</plan>
+  <codigo_cliente>250064-17</codigo_cliente>
+  <nombre_cliente>DE SANTOS, MARIA DE LAS NIEVES</nombre_cliente>
+  <desde>05/03/2020</desde>
+  <hasta>05/04/2020</hasta>
+    <consumos>
+    <registro_consumo>
+      <numero_destino>342-155-677-992</numero_destino>
+      <tarifa>LLAMADA NACIONAL</tarifa>
+      <fecha>06/03/2020</fecha>
+      <hora>10:33:50</hora>
+      <duracion>36</duracion>
+      <importe>1,98</importe>
+    </registro_consumo>
+    <registro_consumo>
+      <numero_destino>342-155-677-992</numero_destino>
+      <tarifa>LLAMADA NACIONAL</tarifa>
+      <fecha>06/03/2020</fecha>
+      <hora>10:45:04</hora>
+      <duracion>326</duracion>
+      <importe>37,49</importe>
+    </registro_consumo>
+    <registro_consumo>
+      <numero_destino>011-154-567-799</numero_destino>
+      <tarifa>MENSAJE DE TEXTO</tarifa>
+      <fecha>07/03/2020</fecha>
+      <hora>13:43:06</hora>
+      <duracion>0</duracion>
+      <importe>2,70</importe>
+    </registro_consumo>
+    <registro_consumo>
+      <numero_destino>011-154-567-799</numero_destino>
+      <tarifa>MENSAJE DE TEXTO</tarifa>
+      <fecha>07/03/2020</fecha>
+      <hora>13:40:15</hora>
+      <duracion>0</duracion>
+      <importe>2,70</importe>
+    </registro_consumo>
+    <registro_consumo>
+      <numero_destino>341-155-234-900</numero_destino>
+      <tarifa>LLAMADA NACIONAL</tarifa>
+      <fecha>08/03/2020</fecha>
+      <hora>12:33:50</hora>
+      <duracion>246</duracion>
+      <importe>13,53</importe>
+    </registro_consumo>
+  </consumos>
+  <total_consumos>58,40</total_consumos>
+</consulta_consumos>
